@@ -11,17 +11,26 @@ The main configuration file. You can setup the playbook to be weighted towards w
 
 #### the skills ####
 __iso__ - handles, speed, layup, etc. 
+
 __post__ - inside, low O, Shoots in Traffic
+
 __pnr__ - pick and roll ball handler
+
 __3pt__ - 3 point rating
+
 __mr__ - mid range rating
+
 __inside__ - players that you want to have opportunities at the rim, either via being the roll player in the pick and roll, or a cutter.
+
 __drive__ - for players that you want to drive, but not necessarily iso
+
 __playmaker__ - there are some plays where a player receives the ball and has 2-3 passing options for open shots. This player should have good O AWR and Passing. 
 
 #### dependencies ####
 python 3
+
 numpy
+
 astropy
 
 #### final notes ####
