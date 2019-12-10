@@ -26,12 +26,19 @@ __drive__ - for players that you want to drive, but not necessarily iso
 
 __playmaker__ - there are some plays where a player receives the ball and has 2-3 passing options for open shots. This player should have good O AWR and Passing. 
 
+#### To Use ####
+After setting up the config file:
+```python playbooks.py```
+A list of 20 play names and the set they're in will be printed to the terminal.
+
 #### dependencies ####
 python 3
 
 numpy
 
 astropy
+
+
 
 #### final notes ####
 I threw this together in an evening. There's a good chance there's a bug or two where the script will fail for some combinations of scorers and skills. 
