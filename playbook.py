@@ -34,18 +34,17 @@ for s in sections:
                 # print(num_assigned, pos, for_player, skill)
                 num_assigned += 1
 
-        # print(num_assigned, num, skills)
-        # print(playbook)
         assert(num_assigned <= num)
-        while num_assigned < num:
+        iter = 0
+        while (num_assigned < num) & (iter < 100):
             for pt in play_types:
                 if num_assigned >= num:
                     continue
                 ind2 = np.where(tmp['defense'] == pt)
                 tmp2 = tmp[ind2]
                 if len(tmp2) == 0:
+                    iter += 1
                     continue
-
 
                 selection = np.random.randint(len(tmp2))
                 player_types = tmp2['type'][selection].split(' ')
