@@ -1,108 +1,116 @@
 pos,    defense,    playbook,   play,                   type
 pg,     man,        1-4 high,   pg clearout,            iso
-pg,     man,        baseline 1, pg post up,             post 
-pg,     man,        motion 3,   pg loop,                inside
-pg,     man,        motion 4,   pg combo,               pnr 
+pg,     man,        baseline 1, pg postup,              post iso
+pg,     man,        motion 1,   screen motion,          3pt
 pg,     zone,       motion 5,   sg stagger,             3pt
 pg,     zone,       triangle 5, c-sg flash,             3pt
-pg,     zone,       box,        pg dive & curl,         inside 3pt
-pg,     zone,       flex 4,     screen drive & dish,    playmaker   
-pg,     zone,       motion 5,   pf curl & create,       3pt
+pg,     zone,       box,        pg dive & curl,         inside
 pg,     zone,       ucla,       guard around,           3pt
-pg,     zone,       princeton,  pick & roll,            3pt
-pg,     zone,       triangle 5, pg corner 3,            3pt   
+pg,     zone,       motion 5,   baseline stack,         3pt
+pg,     zone,       ucla,       high 1,                 3pt
+pg,     zone,       4-motion,   switchback,             inside
+pg,     both,       motion 4,   pg combo,               iso 
+pg,     both,       motion 3,   pg loop,                inside
+pg,     both,       flex 4,     screen drive & dish,    inside iso   
 pg,     both,       flex 3,     pg wing iso,            iso
+pg,     both,       1-4 stack low, scissors,            3pt inside
 
-sg,     man,        1-4 high,   sg wing iso,            iso playmaker 
-sg,     man,        box,        sg-pf two man,          pnr playmaker
-sg,     man,        flex 2,     pg choice,              mr 
+sg,     man,        1-4 high,   sg wing iso,            iso
+sg,     man,        flex 2,     pg choice,              mr 3pt
 sg,     man,        flex 3,     guard pick & fade,      3pt 
-sg,     man,        motion 5,   sg stagger,             mr pnr 
-sg,     man,        ucla,       sg low post,            inside drive post playmaker
-sg,     man,        triangle 3, wing exchange,          3pt 
+sg,     man,        motion 5,   sg stagger,             mr iso
+sg,     man,        ucla,       sg low post,            inside post
+sg,     man,        1-4 stack low, dbl cross,           3pt
+sg,     man,        baseline 1, sg wing screen,         inside
+sg,     zone,       motion 1,   screen motion,          3pt
 sg,     zone,       1-4 high,   baseline curl,          3pt 
-sg,     zone,       1-4 high,   zip,                    3pt 
-sg,     zone,       motion 2,   rollback,               3pt
-sg,     zone,       motion 4,   pg combo,               3pt 
-sg,     zone,       motion 4,   hawk,                   3pt 
+sg,     zone,       1-4 high,   41,                     3pt
 sg,     zone,       4 out post, 24 motion,              3pt 
 sg,     zone,       3 out 2 in, quick hit,              3pt
-sg,     zone,       triangle 3, c playmaker,            3pt 
-sg,     zone,       triangle 7, sg corner 3,            3pt 
-sg,     zone,       triangle 5, pg corner 3,            3pt 
+sg,     zone,       1-4 stack low, michigan,            3pt
+sg,     zone,       box,        pf pop clear,           3pt
+sg,     zone,       motion 2,   sg spotup,              mr
+sg,     zone,       4-out low,  dribble motion,         3pt
+sg,     zone,       4-motion,   switchback,             3pt
+sg,     zone,       3 out 2 in, pf dbl screen,          3pt
+sg,     both,       triangle 7, sg corner 3,            3pt 
+sg,     both,       ucla,       sg iso,                 iso
+sg,     both,       motion 4,   hawk,                   3pt 
+sg,     both,       1-4 high,   zip,                    3pt 
 sg,     both,       1-4 high,   double cross,           3pt
 sg,     both,       box,        cal-wheat,              3pt
-sg,     both,       1-4 high,   41,                     3pt
-sg,     both,       1-4 stack low, dbl cross,           3pt
-sg,     zone,       1-4 stack low, michigan,            3pt
-sg,     both,       baseline 1, sg backdoor,            inside drive
+sg,     both,       1-4 stack low, scissors,            3pt
+sg,     both,       baseline 1, sg backdoor,            inside
 sg,     both,       baseline 1, wing pick & roll,       3pt 
-sg,     both,       baseline 1, sg wing screen,         drive inside 
 sg,     both,       flex 2,     sg pick & pop,          3pt
-sg,     both,       flex 3,     guard pick & roll,      drive inside
-sg,     both,       motion 2,   sg spotup,              mr 
-sg,     zone,       motion 2,   rollback,               3pt
-sg,     both,       ucla,       guard around,           drive pnr 3pt
-sg,     both,       princeton,  sg option,              iso drive 3pt
+sg,     both,       flex 3,     guard pick & roll,      inside
+sg,     both,       ucla,       guard around,           iso
+sg,     both,       princeton,  sg option,              iso
 sg,     both,       triangle 2, sg post high,           post
-sg,     both,       triangle 5, c-sg flash,             3pt inside 
 sg,     both,       triangle 6, 3pt reversal,           3pt
-sg,     both,       triangle 6, sg triangle post,       post iso drive
+sg,     both,       triangle 6, sg triangle post,       post
+sg,     both,       princeton,  princeton high post,    3pt
 
-sf,     man,        baseline 1, pg-sf pick & roll,      inside
-sf,     man,        box,        sf post high,           post iso drive 
-sf,     man,        flex 1,     sf iso wing,            iso drive 
-sf,     man,        ucla,       sf low post,            post 
-sf,     man,        ucla,       pg pick & roll,         inside drive
-sf,     man,        ucla,       screen the screener,    mr playmaker
-sf,     man,        triangle 4, sf screen iso,          iso drive
-sf,     zone,       4 out low,  dribble motion,         3pt
-sf,     zone,       triangle 3, wing exchange,          3pt 
-sf,     zone,       triangle 8, sg corner pick,         drive playmaker
+sf,     man,        ucla,       screen the screener,    mr
+sf,     man,        triangle 4, sf screen iso,          iso
+sf,     man,        1-4 high,   double cross 2,         inside
+sf,     man,        1-4 high,   screen stepout,         mr inside
+sf,     man,        baseline 2, sf pitch,               inside
+sf,     zone,       4-out low,  4 motion,               3pt
+sf,     both,       triangle 8, sg corner pick,         iso
+sf,     zone,       flex 1,     c dive,                 3pt
+sf,     zone,       princeton,  triple cutters,         3pt
+sf,     zone,       4-motion,   switchback,             3pt inside
+sf,     zone,       131 set,    minutement,             3pt
+sf,     both,       ucla,       pg pick & roll,         inside
+sf,     both,       ucla,       sf low post,            post
+sf,     both,       flex 4,     screen drive & dish,    3pt   
+sf,     both,       flex 1,     sf iso wing,            iso 
+sf,     both,       box,        sf post high,           post iso 
+sf,     both,       box,        pg dive & curl,         inside
+sf,     both,       box,        sf triple screen,       iso
+sf,     both,       baseline 1, pg-sf pick & roll,      inside
+sf,     both,       1-4 high,   zip,                    3pt 
 sf,     both,       box,        sf popout,              3pt
 sf,     both,       box,        cal-wheat,              3pt
 sf,     both,       motion 1,   sf weakside,            mr 
 sf,     both,       motion 4,   sf 3pt wing,            3pt 
-sf,     both,       motion 5,   baseline stack,         3pt
-sf,     both,       1-4 high,   baseline curl,          mr playmaker
-sf,     both,       1-4 high,   41,                     3pt
-sf,     both,       flex 1,     sf backdoor cut,        drive inside
-sf,     both,       flex 2,     sg pick & pop,          drive playmaker
-sf,     both,       motion 5,   pf curl & create,       3pt
-sf,     both,       princeton,  pick & roll,            inside drive
-sf,     both,       4-out low,  dribble motion,         3pt
-sf,     both,       4-out low,  fist,                   3pt
-sf,     both,       triangle 6, sf create,              iso drive playmaker
+sf,     both,       flex 1,     sf backdoor cut,        inside
+sf,     both,       triangle 6, sf create,              iso
 
-pf,     man,        baseline 1, pf screen post,         post
 pf,     man,        baseline 1, pf decision,            post
-pf,     man,        flex 2,     pg choice,              mr post
-pf,     man,        flex 2,     pg-pf pick & roll,      inside drive
-pf,     man,        flex 4,     pf low post,            post 
-pf,     zone,       triangle 1, pf high iso,            iso drive playmaker
+pf,     man,        flex 2,     pg-pf pick & roll,      inside
+pf,     man,        1-4 high,   double cross,           inside
+pf,     man,        1-4 stack low, dbl cross,           inside
+pf,     man,        flex 3,     pick & pop mid,         mr
+pf,     man,        4-out low,  flash,                  inside
+pf,     zone,       triangle 1, pf high iso,            iso
+pf,     both,       motion 4,   pg combo,               mr 
+pf,     both,       flex 4,     sg top arc,             inside
+pf,     both,       flex 4,     pf low post,            post 
+pf,     both,       box,        sg-pf two man,          inside
+pf,     both,       baseline 1, pf screen post,         post
+pf,     both,       baseline 1, wing pick & roll,       inside
 pf,     both,       1-4 high,   pf pick & post,         inside post
-pf,     both,       box,        pf pop clear,           mr iso drive playmaker
-pf,     both,       flex 3,     pf post option,         post playmaker
-pf,     both,       motion 5,   pf curl & create,       mr drive inside playmaker
+pf,     both,       flex 3,     pf post option,         post
+pf,     both,       motion 5,   pf curl & create,       iso
 pf,     both,       ucla,       guard around,           3pt inside
-pf,     both,       4-out low,  flash,                  inside
 pf,     both,       triangle 4, pf low post,            post
 pf,     both,       triangle 8, pf double screen,       3pt mr
-pf,     both,       triangle 8, bigs screen roll,       playmaker drive mr
+pf,     both,       triangle 1, triangle post option,   iso
 
-c,      man,        baseline 2, screen low,             post
-c,      man,        box,        pick then post,         post inside drive
-c,      man,        flex 3,     pg-c high screen roll,  inside drive
-c,      man,        triangle 3, c playmaker,            iso drive playmaker
-c,      zone,       triangle 5, c quick post,           post
+
+c,      man,        box,        pf pop clear,           inside
+c,      both,       triangle 5, c quick post,           post
+c,      both,       flex 3,     pg-c high screen roll,  inside
+c,      both,       triangle 3, c playmaker,            iso
+c,      both,       box,        pick then post,         post inside
+c,      both,       baseline 2, screen low,             post
 c,      both,       triangle 3, c low block,            post
 c,      both,       1-4 high,   motion clear out,       inside
 c,      both,       1-4 stack low, scissors,            post inside
-c,      both,       box,        pf pop clear,           inside drive
-c,      both,       flex 1,     c dive,                 inside drive
-c,      both,       princeton,  post pass out,          playmaker
 c,      both,       princeton,  c low post feed,        post
-c,      both,       princeton,  triple cutters,         playmaker
-c,      both,       princeton,  pick & roll,            inside drive
-c,      both,       4-out low,  fist,                   inside drive
-c,      both,       triangle 1, triangle post option,   post
+c,      both,       princeton,  pick & roll,            inside
+c,      both,       4-out low,  fist,                   inside
+c,      both,       3 out 2 in, pf dbl screen,          post inside
+c,      both,       triangle 8, bigs screen roll,       inside

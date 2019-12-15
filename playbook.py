@@ -9,7 +9,7 @@ plays = Table.read('./plays.txt', format='ascii')
 
 sections = config.sections()
 
-play_types = ["man", "both", "zone"]
+play_types = ["both", "both", "man", "zone"]
 
 playbook = []
 for s in sections:
